@@ -116,7 +116,7 @@ export default {
   //   \\Expl{  Because we will be doing a preincrement, the i pointer is set to left - 1.
   //   \\Expl}
   //   j <- right \\B 12
-  //   \\Expl{  The j pointer is set to right, rather than right + 1, because the pivot
+  //   \\Expl{ The j pointer is set to right, rather than right + 1, because the pivot
   //           element is in A[right] and is not part of the partitioning.
   //   \\Expl}
   //   \\Code}
