@@ -124,7 +124,7 @@ export default {
   //   \\Code{
   //   SwapP
   //   swap(A[i], A[right]) \\B 13
-  //   \\Expl{  The pivot element, in A[right], is swapped with A[i]. All
+  //   \\Expl{ The pivot element, in A[right], is swapped with A[i]. All
   //           elements to the left of A[i] must be less then or equal to
   //           the pivot and A[i] plus all elements to its right must be
   //           greater than or equal to the pivot.
